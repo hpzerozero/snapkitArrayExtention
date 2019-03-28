@@ -39,25 +39,25 @@
 
 /* Begin PBXFileReference section */
 		0839BA7E65F9C1C4D1C804194F9F2EB4 /* Pods-snapkitArrayExtention_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-snapkitArrayExtention_Example.modulemap"; sourceTree = "<group>"; };
-		22593AE3A8FB217C03056BA4AB2F5E00 /* SnapkitArrayExtention.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SnapkitArrayExtention.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		22593AE3A8FB217C03056BA4AB2F5E00 /* SnapkitArrayExtention.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SnapkitArrayExtention.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		233FDBFCC2721F682B4C547DFB2B09AA /* SnapkitArrayExtention-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SnapkitArrayExtention-Info.plist"; sourceTree = "<group>"; };
 		237CB50D61B519E85CC37306C1FE39B3 /* SnapkitArrayExtention-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SnapkitArrayExtention-umbrella.h"; sourceTree = "<group>"; };
 		30A850302655F809697188235F3EF589 /* SnapkitArrayExtention-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SnapkitArrayExtention-dummy.m"; sourceTree = "<group>"; };
 		32A3FB9A2F9F7733EC777B3772E003CB /* Pods-snapkitArrayExtention_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-snapkitArrayExtention_Example-Info.plist"; sourceTree = "<group>"; };
 		371EF83E0AA4E71FD89F65FE011AE57E /* SnapkitArrayExtention.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SnapkitArrayExtention.xcconfig; sourceTree = "<group>"; };
-		42A8B8F46BFFE6A99C66B5A95BA060EC /* SnapkitArrayExtention.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SnapkitArrayExtention.framework; path = SnapkitArrayExtention.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		485E0426EC5960CDFEC8CDFB1F24070A /* Pods_snapkitArrayExtention_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_snapkitArrayExtention_Example.framework; path = "Pods-snapkitArrayExtention_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		516CA2E8BFA5655FDAA662529BEA9D31 /* Pods_snapkitArrayExtention_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_snapkitArrayExtention_Tests.framework; path = "Pods-snapkitArrayExtention_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		42A8B8F46BFFE6A99C66B5A95BA060EC /* SnapkitArrayExtention.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SnapkitArrayExtention.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		485E0426EC5960CDFEC8CDFB1F24070A /* Pods_snapkitArrayExtention_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_snapkitArrayExtention_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		516CA2E8BFA5655FDAA662529BEA9D31 /* Pods_snapkitArrayExtention_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_snapkitArrayExtention_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		524564ADA3B045514E95A717B36F3ABF /* Pods-snapkitArrayExtention_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-snapkitArrayExtention_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		563F0BE80C57B8FF8D8AA720A396EA59 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		563F0BE80C57B8FF8D8AA720A396EA59 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		61AE8CDC4B3AF17F6B377FCB92E6A8EC /* Pods-snapkitArrayExtention_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-snapkitArrayExtention_Example-umbrella.h"; sourceTree = "<group>"; };
 		67A466C1BA1C2032FC6626CA412F32B2 /* Pods-snapkitArrayExtention_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-snapkitArrayExtention_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		67B1DC7598217476ADF4E7C1D451E1D2 /* Pods-snapkitArrayExtention_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-snapkitArrayExtention_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		682B91FD39D3182BB695721187DD1E52 /* SnapkitArrayExtention-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SnapkitArrayExtention-prefix.pch"; sourceTree = "<group>"; };
 		7ED1D8D2F0E535BADCBB50672886592F /* Pods-snapkitArrayExtention_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-snapkitArrayExtention_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		91D06A38CCDB42916F95367F526519B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		91D06A38CCDB42916F95367F526519B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		9A72D5ADFBB68A7CD16255F6B5D9C9E0 /* Pods-snapkitArrayExtention_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-snapkitArrayExtention_Example-frameworks.sh"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AC52F9A88DEF9E0684682F253BBD7398 /* Pods-snapkitArrayExtention_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-snapkitArrayExtention_Example.release.xcconfig"; sourceTree = "<group>"; };
 		AFEAEE721FC0615C10C0F3345DC09B82 /* Pods-snapkitArrayExtention_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-snapkitArrayExtention_Tests-dummy.m"; sourceTree = "<group>"; };
 		B86CF005CB6D105610284D1E4A9DA41C /* ConstraintArray+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ConstraintArray+Extensions.swift"; path = "SnapkitArrayExtention/Classes/ConstraintArray+Extensions.swift"; sourceTree = "<group>"; };
@@ -324,6 +324,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
@@ -721,8 +722,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
