@@ -1,0 +1,22 @@
+{
+  "name": "SnapkitArrayExtention",
+  "version": "0.1.0",
+  "summary": "A short description of snapkitArrayExtention.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hpzerozero/SnapkitArrayExtention",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hpzerozero": "fly_dapeng@163.com"
+  },
+  "source": {
+    "git": "https://github.com/hpzerozero/snapkitArrayExtention.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "snapkitArrayExtention/Classes/**/*"
+}

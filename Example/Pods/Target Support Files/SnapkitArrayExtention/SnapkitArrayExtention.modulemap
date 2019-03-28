@@ -1,0 +1,6 @@
+framework module SnapkitArrayExtention {
+  umbrella header "SnapkitArrayExtention-umbrella.h"
+
+  export *
+  module * { export * }
+}

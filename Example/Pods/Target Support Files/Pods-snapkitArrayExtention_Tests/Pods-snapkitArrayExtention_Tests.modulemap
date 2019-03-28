@@ -1,0 +1,6 @@
+framework module Pods_snapkitArrayExtention_Tests {
+  umbrella header "Pods-snapkitArrayExtention_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

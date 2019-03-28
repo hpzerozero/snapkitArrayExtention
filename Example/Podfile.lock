@@ -1,0 +1,16 @@
+PODS:
+  - SnapkitArrayExtention (0.1.0)
+
+DEPENDENCIES:
+  - SnapkitArrayExtention (from `../`)
+
+EXTERNAL SOURCES:
+  SnapkitArrayExtention:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapkitArrayExtention: b070ed18ef6dfcc8bef980837f8ca0231004d7fd
+
+PODFILE CHECKSUM: c45ed9b4917354c25fc59d98f4dbab6c2e138b75
+
+COCOAPODS: 1.6.1
