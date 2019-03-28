@@ -1,15 +1,22 @@
 PODS:
-  - SnapkitArrayExtention (0.1.0)
+  - SnapKit (4.0.1)
+  - SnapkitArrayExtention (0.1.1):
+    - SnapKit (~> 4.0.0)
 
 DEPENDENCIES:
   - SnapkitArrayExtention (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
 
 EXTERNAL SOURCES:
   SnapkitArrayExtention:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SnapkitArrayExtention: b070ed18ef6dfcc8bef980837f8ca0231004d7fd
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SnapkitArrayExtention: ab348fdcfb56ae210ddb7d41ba9a26fe34b1b60a
 
 PODFILE CHECKSUM: c45ed9b4917354c25fc59d98f4dbab6c2e138b75
 

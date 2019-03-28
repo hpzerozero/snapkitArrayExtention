@@ -7,14 +7,22 @@
 //
 
 import UIKit
-
+import SnapkitArrayExtention
 class ViewController: UIViewController {
-    var label = UILabel()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-//        [label].
+        var array = Array<Any>()
+        for idx in 0...4 {
+            let label = UILabel()
+            label.text = "这是一个label\(idx)"
+            array.append(label)
+        }
+        array.snp_distributeViewsAlong(axisType: .horizontal, fixedSpacing: 10)
+        array.snp_makeConstraints { (maker) in
+            maker.top.equalTo(10)
+        }
     }
 
     override func didReceiveMemoryWarning() {

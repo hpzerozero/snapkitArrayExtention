@@ -1,5 +1,5 @@
 import XCTest
-import snapkitArrayExtention
+//import SnapkitArrayExtention
 
 class Tests: XCTestCase {
     
