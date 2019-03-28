@@ -1,0 +1,2 @@
+# snapkitArrayExtention
+由于snapkit没有等分布局的方法，这里给它一个扩展，方便开发等分布局
